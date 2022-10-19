@@ -16,6 +16,7 @@
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" />][reddit]
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" align="left" />][spotify]
 
+
 <br />
 <br />
 
@@ -26,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" align="left" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" align="left" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="25" height="25" align="left" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" align="left" >
 
 <br />
 <br />
