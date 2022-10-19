@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/gl8ymnpv4Sqha/giphy.gif" align="right" width="400" height="300">
-
 ### Hi there, I'm Harlex. 🖤🤍
 
 ## Web Designer | Web Developer
