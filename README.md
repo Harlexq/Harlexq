@@ -14,8 +14,6 @@
 <a href="https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Harlex" height="30" width="30" style="max-width: 100%;"></a>
 </p>
 
-
-<br />
 <br />
 
 ### Languages and Tools
