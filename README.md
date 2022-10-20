@@ -37,10 +37,3 @@
 <summary>💡 Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
 </detalis>
-
-[discord]: https://discord.gg/UycrMVPz6j
-[twitch]: https://www.twitch.tv/harlexq
-[youtube]: https://www.youtube.com/channel/UC-TSZQn3kug40WRZF4jnDGg
-[instagram]: https://www.instagram.com/harlex0/
-[reddit]: https://www.reddit.com/user/Harlexq
-[spotify]: https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=5a61429d39e54d42
