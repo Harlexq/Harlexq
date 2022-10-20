@@ -7,10 +7,10 @@
 
 ### Reach out to me
 
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" align="left" />][discord]
+[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" align="left"  />][discord]
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitch.svg" align="left" />][twitch]
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align="left" />][youtube]
-[<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align="left" />][instagram]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/reddit.svg" align="left" />][reddit]
 [<img height="22" width="32" src="https://unpkg.com/simple-icons@v7/icons/spotify.svg" align="left" />][spotify]
 
