@@ -8,10 +8,10 @@
 ### Reach out to me
 
 <p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/hasanbozkurtua/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasan Bozkurt" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://twitter.com/hasanbozkurtua" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanbozkurtua" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://instagram.com/hasanbozkurtua" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanbozkurtua" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://open.spotify.com/user/6ee7us5a6n80bbmzf1n5r0oxr?si=45f235d04fc9451a" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="hasanbozkurtua" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/serkan-bakır-189587238/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harlex" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://twitter.com/harlexq" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harlex" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/harlex0/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harlex" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Harlex" height="30" width="30" style="max-width: 100%;"></a>
 </p>
 
 
