@@ -2,7 +2,7 @@
 
 <h1>Hi there, I'm Harlex. 🖤🤍 <a  href="https://github.com/Harlexq/"> </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
-## Web Designer | Web Developer
+## Web Developer
 
 <font color="#5efffa">I'm Serkan Web Developer and I'm Working at Derin Ideas Advertising Agency as a Web Developer</font>
 
