@@ -26,10 +26,6 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ziyaretin+için+teşekkürler+dostum!!&center=true&color="FF0000")](https://github.com/Artimxf)
-<div align="center">
-<br />
-
 <detalis>
 <summary>⭐ Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Harlexq&theme=radical" >
@@ -40,3 +36,6 @@
 <summary>💡 Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
 </detalis>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ziyaretin+için+teşekkürler+dostum!!&center=true&color="FF0000")](https://github.com/Artimxf)
+<div align="center">
