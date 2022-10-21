@@ -37,5 +37,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
 </detalis>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ziyaretin+için+teşekkürler+dostum!!&center=true&color="FF0000")](https://github.com/Artimxf)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com/?lines=ziyaretin+için+teşekkürler+dostum!!&center=true&color="aaaa"](https://readme-typing-svg.herokuapp.com/?lines=Burası+Harlex%27in+Projesi+Hoşgeldin!!&center=true&color="FF0000"))](https://github.com/Artimxf)
 <div align="center">
