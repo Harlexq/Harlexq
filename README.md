@@ -25,6 +25,9 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" height="30" align="left" >
 
 <br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ziyaretin+için+teşekkürler+dostum!!&center=true&color="FF0000")](https://github.com/Artimxf)
+<div align="center">
 <br />
 
 <detalis>
