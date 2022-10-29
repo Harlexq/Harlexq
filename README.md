@@ -11,14 +11,12 @@
 
 ### Reach out to me
 
-<p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/serkan-bakır-189587238/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harlex" height="40" width="40" align="left"></a>
 <a href="https://twitter.com/harlexq" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Harlex" height="40" width="40" align="left"></a>
 <a href="https://www.instagram.com/harlex0/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harlex" height="40" width="40" align="left"></a>
- <a href="https://discord.com/users/801069133810237491" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Harlex" height="40" width="40" align="left"></a>
-<a href="https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Harlex" height="40" width="40" align="left"></a>
+<a href="https://discord.com/users/801069133810237491" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Harlex" height="40" width="40" align="left"></a>
+<a href="https://open.spotify.com/playlist/4CI736CK2941kjaY6rSe5L?si=52dd83892ef14f16" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Harlex" height="40" width="40" align="left"></a>
 <a href="https://www.reddit.com/user/Harlexq" rel="nofollow"><img align="center" src="https://www.seekpng.com/png/full/847-8478394_download-icon-reddit-svg-eps-png-psd-ai.png" alt="Harlex" height="40" width="40" align="left"></a>
-</p>
 
 ### Languages and Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" align="left" >
