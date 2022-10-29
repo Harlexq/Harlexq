@@ -4,7 +4,7 @@
 
 ## Web Developer
 
-<font color="#5efffa">I'm Serkan Web Developer and I'm Working at Derin Ideas Advertising Agency as a Web Developer</font>
+<font color="#5efffa">I am Serkan Web Developer and Web Designer</font>
 
 <img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="100" height="20" />
 
