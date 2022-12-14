@@ -3,9 +3,7 @@
 <h1>Hi there, I'm Harlex. 🖤🤍 <a href="https://github.com/Harlexq/"> </a> <img
         src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
-## Web Developer
-
-<font color="#5efffa">Junior Web Developer</font>
+## Junior Web Developer
 
 <img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="100" height="20" />
 
