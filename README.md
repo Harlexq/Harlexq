@@ -50,7 +50,7 @@
     width="50" height="50" align="left">
 
 <br />
-
+<br />
 <br />
 
 <detalis>
