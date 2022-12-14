@@ -16,7 +16,7 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="Harlex" height="50" width="50" align="left"></a>
 <a href="https://twitter.com/harlexq" rel="nofollow"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"
         alt="Harlex" height="50" width="50" align="left"></a>
 <a href="https://www.instagram.com/harlex0/" rel="nofollow"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
