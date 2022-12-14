@@ -5,7 +5,7 @@
 
 ## Web Developer
 
-<font color="#5efffa">I am Serkan Web Developer and Web Designer</font>
+<font color="#5efffa">Junior Web Developer</font>
 
 <img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="100" height="20" />
 
