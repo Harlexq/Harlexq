@@ -10,7 +10,7 @@
 
 ### Reach out to me
 
-<a href="https://www.linkedin.com/in/serkan-bakır-189587238/" target="_blank" rel="nofollow"><img align="center"
+<a href="https://www.linkedin.com/in/serkan-bakır-189587238/" rel="nofollow"><img align="center"
         src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="Harlex" height="50" width="50"
         align="left"></a>
 <a href="https://twitter.com/harlexq" rel="nofollow"><img align="center"
