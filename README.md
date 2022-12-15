@@ -29,7 +29,7 @@
         src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" alt="Harlex" height="50" width="50"
         align="left"></a>
 <a href="https://www.youtube.com/channel/UC-TSZQn3kug40WRZF4jnDGg" rel="nofollow"><img align="center"
-        src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="Harlex" height="50" width="50"
+        src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" alt="Harlex" height="50" width="50"
         align="left"></a>
 <a href="https://www.twitch.tv/harlexq" rel="nofollow"><img align="center"
         src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" alt="Harlex" height="50" width="50"
