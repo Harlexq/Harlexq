@@ -28,6 +28,12 @@
 <a href="https://www.reddit.com/user/Harlexq" rel="nofollow"><img align="center"
         src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" alt="Harlex" height="50" width="50"
         align="left"></a>
+<a href="https://www.youtube.com/channel/UC-TSZQn3kug40WRZF4jnDGg" rel="nofollow"><img align="center"
+        src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" alt="Harlex" height="50" width="50"
+        align="left"></a>
+<a href="https://www.twitch.tv/harlexq" rel="nofollow"><img align="center"
+        src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" alt="Harlex" height="50" width="50"
+        align="left"></a>
 
 ### Languages and Tools
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
