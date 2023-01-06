@@ -71,8 +71,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlexq&layout=compact" width=500>
 </detalis>
 
----
-
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?lines=Burası+Harlex%27in+Profili+Hoşgeldin!!&center=true&color="aaaa")](https://github.com/Harlexq)
 <div align="center">
