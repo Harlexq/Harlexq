@@ -1,7 +1,7 @@
 ###
 
 <h1>Hi there, I'm Harlex. 🖤🤍 <a href="https://github.com/Harlexq/"> </a> <img
-        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
+        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h1>
 
 ## Junior Web Developer
 
