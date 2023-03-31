@@ -30,7 +30,6 @@
 <img src="https://i.hizliresim.com/pnxue5c.png" width="50" height="50" align="left">
 <img src="https://i.hizliresim.com/tpcv6v4.png" width="50" height="50" align="left">
 <img src="https://i.hizliresim.com/mmxv27z.png" width="50" height="50" align="left">
-<br />
 
 
 ### Tools
