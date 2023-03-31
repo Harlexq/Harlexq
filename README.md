@@ -35,21 +35,14 @@
         width="50"></a>
 
 ### Languages and Tools
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    width="50" height="50" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    width="50" height="50" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-    width="50" height="50" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    width="50" height="50" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-    width="50" height="50" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
-    width="50" height="50" align="left">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-    width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/oyqyxph" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/6txxiec" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/cgvs30a" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/lvcwbjl" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/qtlll1p" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/pnxue5c" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/tpcv6v4" width="50" height="50" align="left">
+<img src="https://www.hizliresim.com/mmxv27z" width="50" height="50" align="left">
 
 <br />
 <br />
