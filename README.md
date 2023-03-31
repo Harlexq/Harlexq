@@ -35,14 +35,14 @@
         width="50"></a>
 
 ### Languages and Tools
-<img src="https://www.hizliresim.com/oyqyxph.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/6txxiec.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/cgvs30a.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/lvcwbjl.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/qtlll1p.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/pnxue5c.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/tpcv6v4.png" width="50" height="50" align="left">
-<img src="https://www.hizliresim.com/mmxv27z.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/oyqyxph.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/6txxiec.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/cgvs30a.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/lvcwbjl.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/qtlll1p.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/pnxue5c.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/tpcv6v4.png" width="50" height="50" align="left">
+<img src="https://i.hizliresim.com/mmxv27z.png" width="50" height="50" align="left">
 
 <br />
 <br />
