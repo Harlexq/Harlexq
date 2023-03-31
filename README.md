@@ -5,7 +5,7 @@
 
 ## Junior Web Developer
 
-<img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="150" height="20" />
+<img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="130" height="20" />
 
 
 ### Reach out to me
