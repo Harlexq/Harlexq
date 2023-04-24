@@ -27,8 +27,6 @@
 <img src="https://i.hizliresim.com/cgvs30a.png" width="50" height="50" alt="Harlex" align="left">
 <img src="https://i.hizliresim.com/lvcwbjl.png" width="50" height="50" alt="Harlex" align="left">
 <img src="https://i.hizliresim.com/qtlll1p.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/pnxue5c.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/tpcv6v4.png" width="50" height="50" alt="Harlex" align="left">
 <img src="https://i.hizliresim.com/mmxv27z.png" width="50" height="50" alt="Harlex" align="left">
 <br />
 <br />
