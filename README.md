@@ -49,7 +49,11 @@
 </detalis>
 
 
-
+<detalis>
+    <summary>💡 Most Used Languages</summary>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlexq&layout=compact" width=500>
+</detalis>
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?lines=Burası+Harlex%27in+Profili+Hoşgeldin!!&center=true&color="ffffff")](https://github.com/Harlexq)
