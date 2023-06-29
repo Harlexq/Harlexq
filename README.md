@@ -18,7 +18,6 @@
 <a href="https://www.reddit.com/user/Harlexq" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/jac7b8c.png" alt="Harlex" height="50" width="50"></a>
 <br />
 
-
 ### Languages
 
 <img src="https://i.hizliresim.com/oyqyxph.png" width="50" height="50" alt="Harlex" align="left">
