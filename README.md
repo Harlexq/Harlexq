@@ -20,14 +20,14 @@
 
 ### Languages
 
-<img src="https://i.hizliresim.com/oyqyxph.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/6txxiec.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/cgvs30a.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/kttilpq.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/lvcwbjl.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/snk8uzs.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/kyks4p7.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/mmxv27z.png" width="50" height="50" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/oyqyxph.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/6txxiec.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/cgvs30a.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/kttilpq.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/lvcwbjl.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/snk8uzs.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/kyks4p7.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
+<img src="https://i.hizliresim.com/mmxv27z.png" width="50" height="50" style="object-fit: cover;" alt="Harlex" align="left">
 <br />
 <br />
 
