@@ -55,3 +55,6 @@
 <detalis>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlexq&layout=compact" width=500>
 </detalis>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f8roobep6rltogx34it1z1ix9&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=f8roobep6rltogx34it1z1ix9&redirect=true)
