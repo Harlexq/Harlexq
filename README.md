@@ -10,10 +10,10 @@
 
 ### Social Media
 
-<a href="https://www.instagram.com/harlex0/" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Harlex" height="50" width="50"></a>
-<a href="https://twitter.com/harlexq" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Harlex" height="50" width="50"></a>
-<a href="https://discord.com/users/993962557327015946" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Harlex" height="50" width="50"></a>
-<a href="https://www.linkedin.com/in/serhan-bakir/" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="Harlex" height="50" width="50"></a>
+<a href="https://www.instagram.com/harlex0/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="50" width="50"></a>
+<a href="https://twitter.com/harlexq"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="50" width="50"></a>
+<a href="https://discord.com/users/993962557327015946"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
+<a href="https://www.linkedin.com/in/serhan-bakir/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="50" width="50"></a>
 <br />
 
 ### Languages
