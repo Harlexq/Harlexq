@@ -45,15 +45,14 @@
 <br />
 <br />
 
+### ⭐ Github Stats
+
 <detalis>
-    <summary>⭐ Github Stats</summary>
-    <br />
     <img src="https://github-readme-stats.vercel.app/api?username=Harlexq&theme=radical" width=500>
 </detalis>
 
+### 💡 Most Used Languages
 
 <detalis>
-    <summary>💡 Most Used Languages</summary>
-    <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlexq&layout=compact" width=500>
 </detalis>
