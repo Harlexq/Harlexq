@@ -10,12 +10,10 @@
 
 ### Social Media
 
-<a href="https://www.instagram.com/harlex0/" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/799wlc3.png" alt="Harlex" height="50" width="50"></a>
-<a href="https://twitter.com/harlexq" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/t01k7z4.png" alt="Harlex" height="50" width="50"></a>
-<a href="https://discord.com/users/801069133810237491" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/rxs7zsx.png" alt="Harlex" height="50" width="50"></a>
-<a href="https://www.linkedin.com/in/serhan-bakir/" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/iq2ug97.png" alt="Harlex" height="50" width="50"></a>
-<a href="https://open.spotify.com/user/f8roobep6rltogx34it1z1ix9?si=bb133a3e916c4787" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/ounk7i9.png" alt="Harlex" height="50" width="50"></a>
-<a href="https://www.reddit.com/user/Harlexq" target="_blank" rel="nofollow"><img align="center" src="https://i.hizliresim.com/jac7b8c.png" alt="Harlex" height="50" width="50"></a>
+<a href="https://www.instagram.com/harlex0/" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Harlex" height="50" width="50"></a>
+<a href="https://twitter.com/harlexq" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Harlex" height="50" width="50"></a>
+<a href="https://discord.com/users/993962557327015946" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="Harlex" height="50" width="50"></a>
+<a href="https://www.linkedin.com/in/serhan-bakir/" target="_blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="Harlex" height="50" width="50"></a>
 <br />
 
 ### Languages
