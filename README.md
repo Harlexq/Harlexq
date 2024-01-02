@@ -20,14 +20,14 @@
 
 ### Languages
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/6txxiec.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/cgvs30a.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/kttilpq.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/lvcwbjl.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/snk8uzs.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/kyks4p7.png" width="50" height="50" alt="Harlex" align="left">
-<img src="https://i.hizliresim.com/mmxv27z.png" width="50" height="50" alt="Harlex" align="left">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 <br />
 <br />
 
