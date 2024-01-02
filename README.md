@@ -44,12 +44,6 @@
 <br />
 <br />
 
-### ⭐ Github Stats
-
-<detalis>
-    <img src="https://github-readme-stats.vercel.app/api?username=Harlexq&theme=radical" width=500>
-</detalis>
-
 ### 💡 Most Used Languages
 
 <detalis>
