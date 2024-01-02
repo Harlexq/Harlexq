@@ -20,7 +20,7 @@
 
 ### Languages
 
-<img src="https://i.hizliresim.com/oyqyxph.png" width="50" height="50" alt="Harlex" align="left">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50" height="50" alt="Harlex" align="left">
 <img src="https://i.hizliresim.com/6txxiec.png" width="50" height="50" alt="Harlex" align="left">
 <img src="https://i.hizliresim.com/cgvs30a.png" width="50" height="50" alt="Harlex" align="left">
 <img src="https://i.hizliresim.com/kttilpq.png" width="50" height="50" alt="Harlex" align="left">
