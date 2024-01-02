@@ -15,6 +15,7 @@
 <a href="https://discord.com/users/993962557327015946"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
 <a href="https://www.linkedin.com/in/serhan-bakir/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="50" width="50"></a>
 <br />
+<br />
 
 ### Languages
 
