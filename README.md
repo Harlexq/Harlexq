@@ -14,6 +14,8 @@
 <a href="https://twitter.com/harlexq"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="50" width="50"></a>
 <a href="https://discord.com/users/993962557327015946"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="50" width="50"></a>
 <a href="https://www.linkedin.com/in/serhan-bakir/"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="50" width="50"></a>
+<a href="mailto:serhan@serhanbakir.com.tr"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="50" width="50"></a>
+<a href="https://stackoverflow.com/users/20511079/serhan-bakır"><img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" height="50" width="50"></a>
 <br />
 <br />
 
