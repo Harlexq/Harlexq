@@ -49,7 +49,6 @@
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
-<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
 <br />
 <br />
 
@@ -58,8 +57,6 @@
 
 
 <img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/XD.svg">
-<img width="50" height="50" align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg">
 <br />
 <br />
 
