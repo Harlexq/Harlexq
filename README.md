@@ -8,8 +8,10 @@
 
 ### About Me & Current Status
 
-* 💻 I am currently working on **Front-End & Full-Stack Web Projects**
-* 🎓 I am currently learning **Modern Web Architecture & Security**
+* 💼 I am currently working at **[Limonist Meta](https://www.limonist.com)**
+* 🚀 I am currently building **[Optium](https://optium.com.tr/en)**
+* 💻 I am working on **Front-End & Full-Stack Web Projects**
+* 🎓 I am learning **Modern Web Architecture & Security**
 * 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS**
 * ⚡ Fun fact: **I love listening to instrumental music while coding**
 
