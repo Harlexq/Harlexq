@@ -1,81 +1,150 @@
-<h1>Hi, I'm Serhan Bakır 🖤🤍 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
+<h1 align="center">
+Hi 👋 I'm Serhan Bakır
+</h1>
 
-### Front-End Developer
+<h3 align="center">
+Mid-Level Frontend & Junior Backend Developer
+</h3>
 
-<img src="https://komarev.com/ghpvc/?username=Harlexq&style=plastic" width="130" height="20" />
+<p align="center">
+Building scalable, high-performance web applications with modern technologies.
+</p>
 
-<br />
-
-### About Me & Current Status
-
-* 💼 I am currently working at **[Limonist Meta](https://www.limonist.com)**
-* 🚀 I am currently building **[Optium](https://optium.com.tr/en)**
-* 💻 I am working on **Front-End & Full-Stack Web Projects**
-* 🎓 I am learning **Modern Web Architecture & Security**
-* 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS**
-* ⚡ Fun fact: **I love listening to instrumental music while coding**
-
----
-
-### Social Media
-
-<p align="left">
-  <a href="https://www.instagram.com/harlex0/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="40" width="40" alt="Instagram"></a> &nbsp;
-  <a href="https://twitter.com/harlexq"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="40" width="40" alt="Twitter"></a> &nbsp;
-  <a href="https://discord.com/users/993962557327015946"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="40" width="40" alt="Discord"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/serhan-bakir/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" width="40" alt="LinkedIn"></a> &nbsp;
-  <a href="mailto:serhan@serhanbakir.com.tr"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" height="40" width="40" alt="Gmail"></a> &nbsp;
-  <a href="https://stackoverflow.com/users/20511079/serhan-bakır"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" height="40" width="40" alt="StackOverflow"></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harlexq&style=for-the-badge" />
 </p>
 
 ---
 
-### Front-End Development Tools
+## 🚀 About Me
 
-<p align="left">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" alt="Sass">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="Tailwind">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JS">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="TS">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" alt="JQuery">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="Redux">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" alt="NextJS">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" alt="Angular">
+* 💼 Frontend Developer at **[Limonist Meta](https://www.limonist.com)**
+* 🚀 Currently building **[Optium](https://optium.com.tr/en)**
+- 🌍 Passionate about scalable Full-Stack architectures
+- 🎯 Specialized in React Ecosystem & Modern Web Development
+- 📚 Currently learning System Design, Security and DevOps
+- ⚡ I enjoy instrumental music while coding
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite" />
+
 </p>
 
-### Deployment Tools
+### Backend
 
-<p align="left">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="Vercel">
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres" />
+
 </p>
 
-### Development Environment Tools
+### DevOps
 
-<p align="left">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="VisualStudio">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux">
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,vercel,github,git" />
+
 </p>
 
-### Design Tools
+### Tools
 
-<p align="left">
-  <img width="45" height="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma">
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma" />
+
 </p>
 
 ---
 
-### Most Used Languages
+## 💡 Expertise
 
-<details open>
-  <summary><b>Click to expand/collapse</b></summary>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlexq&layout=compact&theme=dark" width="450">
-</details>
+- Modern React Architecture
+- Next.js App Router
+- TypeScript
+- NestJS REST APIs
+- PostgreSQL & Prisma
+- JWT Authentication
+- Role Based Authorization
+- Responsive UI
+- SEO Optimization
+- Performance Optimization
+- Component Driven Development
+- Monorepo Architecture
+- Docker
+- CI/CD
+- Clean Code
+- Software Architecture
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harlexq&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlexq&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harlexq&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/harlex0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="45" height="45" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/harlexq" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="45" height="45" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/993962557327015946" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="45" height="45" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/serhan-bakir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:serhan@serhanbakir.com.tr">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="45" height="45" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/20511079/serhan-bakır" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="45" height="45" alt="Stack Overflow"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Scalable Full-Stack Applications
+- Clean Architecture
+- NestJS Microservices
+- Modern Next.js
+- Web Security
+- Performance Engineering
+
+---
+
+> *"First solve the problem. Then write the code."*
