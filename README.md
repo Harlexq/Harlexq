@@ -18,8 +18,8 @@ Building scalable, high-performance web applications with modern technologies.
 
 ## 🚀 About Me
 
-* 💼 Frontend Developer at **[Limonist Meta](https://www.limonist.com)**
-* 🚀 Currently building **[Optium](https://optium.com.tr/en)**
+- 💼 Frontend Developer at **[Limonist Meta](https://www.limonist.com)**
+- 🚀 Currently building **[Optium](https://optium.com.tr/en)**
 - 🌍 Passionate about scalable Full-Stack architectures
 - 🎯 Specialized in React Ecosystem & Modern Web Development
 - 📚 Currently learning System Design, Security and DevOps
