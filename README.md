@@ -11,7 +11,17 @@ Building scalable, high-performance web applications with modern technologies.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harlexq&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Harlexq&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://serhanbakir.com.tr">
+    <img src="https://img.shields.io/badge/Portfolio-serhanbakir.com.tr-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/serhan-bakir/">
+    <img src="https://img.shields.io/badge/LinkedIn-Serhan%20Bakır-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -21,130 +31,173 @@ Building scalable, high-performance web applications with modern technologies.
 - 💼 Frontend Developer at **[Limonist Meta](https://www.limonist.com)**
 - 🚀 Currently building **[Optium](https://optium.com.tr/en)**
 - 🌍 Passionate about scalable Full-Stack architectures
-- 🎯 Specialized in React Ecosystem & Modern Web Development
-- 📚 Currently learning System Design, Security and DevOps
+- ⚛️ Specialized in React Ecosystem & Modern Web Development
+- 🧠 Interested in Software Architecture & System Design
+- 📚 Currently learning Backend Architecture, DevOps and Distributed Systems
 - ⚡ I enjoy instrumental music while coding
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/2FA-Authentication-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-Authorization-FF6F00?style=for-the-badge" />
+</p>
+
+---
+
+## 🗄️ Database & Cache
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 🐳 DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,vercel,github,git" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monorepo-CB3837?style=for-the-badge&logo=pnpm&logoColor=white" />
+</p>
+
+---
+
+## 🧪 Testing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vitest,jest" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,git,github" />
+</p>
+
+---
+
+# 💡 Expertise
+
+<table>
+<tr>
+<td>
 
 ### Frontend
 
-<p>
+- React Architecture
+- Next.js App Router
+- TypeScript
+- Redux Toolkit
+- Responsive UI
+- Component Driven Development
+- SEO Optimization
+- Performance Optimization
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,redux,vite" />
+</td>
 
-</p>
+<td>
 
 ### Backend
 
-<p>
+- NestJS
+- REST API Design
+- PostgreSQL
+- Prisma ORM
+- JWT Authentication
+- Two-Factor Authentication
+- Role-Based Authorization
+- Data Modeling
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres" />
+</td>
+</tr>
 
-</p>
+<tr>
+<td>
+
+### Architecture
+
+- Modular Architecture
+- Monorepo Architecture
+- Clean Code
+- Server / Client Architecture
+- State Management
+- Dynamic Routing
+- API Integration
+
+</td>
+
+<td>
 
 ### DevOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,vercel,github,git" />
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma" />
-
-</p>
-
----
-
-## 💡 Expertise
-
-- Modern React Architecture
-- Next.js App Router
-- TypeScript
-- NestJS REST APIs
-- PostgreSQL & Prisma
-- JWT Authentication
-- Role Based Authorization
-- Responsive UI
-- SEO Optimization
-- Performance Optimization
-- Component Driven Development
-- Monorepo Architecture
 - Docker
-- CI/CD
-- Clean Code
-- Software Architecture
+- Docker Compose
+- Linux
+- Vercel
+- Git / GitHub
+- Health Checks
+- Multi-stage Builds
+- Environment Management
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+# 📚 Currently Learning
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harlexq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harlexq&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,kubernetes,nginx,githubactions" />
 
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harlexq&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/System%20Design-Architecture-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-Architecture-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Event--Driven-Architecture-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web-Security-green?style=for-the-badge" />
 
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/harlex0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="45" height="45" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/harlexq" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="45" height="45" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/993962557327015946" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="45" height="45" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/serhan-bakir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="45" height="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:serhan@serhanbakir.com.tr">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="45" height="45" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/20511079/serhan-bakır" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" width="45" height="45" alt="Stack Overflow"/>
-  </a>
-</p>
-
----
-
-## 🚀 Current Focus
-
-- Scalable Full-Stack Applications
-- Clean Architecture
-- NestJS Microservices
-- Modern Next.js
-- Web Security
-- Performance Engineering
-
----
-
-> *"First solve the problem. Then write the code."*
